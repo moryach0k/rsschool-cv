@@ -1,5 +1,5 @@
 # Kostya Morev
-[t.me/kmorev17](Telegram) • [mailto:kmorev17@gmail.com](Email) • Discord — moryach0k
+[Telegram](t.me/kmorev17) • [Email](mailto:kmorev17@gmail.com) • Discord — moryach0k
 
 ## About me
 Previously I have been working as a designer since 2017.
@@ -9,7 +9,7 @@ In my spare time I make pet-projects - service for selecting the broker and appl
 HTML, CSS, JS, Git, Ruby on Rails, AWS
 
 ## Examples of my code
-[https://github.com/moryach0k/layout-designer-project-lvl2](HTML and CSS)•[https://www.codewars.com/kata/reviews/55e81485eef300ee1c000186/groups/5896a6be62eaa4a5a5001087](Javascript)
+[HTML and CSS](https://github.com/moryach0k/layout-designer-project-lvl2) • [Javascript](https://www.codewars.com/kata/reviews/55e81485eef300ee1c000186/groups/5896a6be62eaa4a5a5001087)
 
 ## Work experience
 ### Rocket Works, 2021 — Now
